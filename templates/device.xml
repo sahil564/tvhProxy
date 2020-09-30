@@ -12,5 +12,7 @@
         <modelNumber>{{ data.ModelNumber }}</modelNumber>
         <serialNumber></serialNumber>
         <UDN>uuid:{{ data.DeviceID }}</UDN>
+    
     </device>
+
 </root>
